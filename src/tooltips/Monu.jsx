@@ -1,34 +1,9 @@
-import React from 'react'
-
 const Monu = () => {
   return (
     <div>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
-      <h1>asdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff</h1>
+      <h1 className="text-3xl text-red-800 font-bold underline">Hello world!</h1>
     </div>
-  )
-}
+  );
+};
 
-export default Monu
+export default Monu;

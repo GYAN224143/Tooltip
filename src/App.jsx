@@ -16,18 +16,20 @@ const PurpleTippy = styled(Tippy)`
 function App() {
   return (
     <>
-      <PurpleTippy
-        placement="bottom"
-        content="This is top header"
-        followCursor={true}
-        plugins={[followCursor]}
-      >
-        <h1 className="heading">This is Tooltip</h1>
-      </PurpleTippy>
-      <Gyan />
-      <Monu/>
+      <div className="poppins-bold ">
+        <PurpleTippy
+          placement="bottom"
+          content="This is top header"
+          followCursor={true}
+          plugins={[followCursor]}
+        >
+          <h1 className="heading">This is Tooltip</h1>
+        </PurpleTippy>
+        <Gyan />
+        <Monu />
 
-      <Tooltip1 position={"right"} />
+        <Tooltip1 position={"right"} />
+      </div>
     </>
   );
 }
